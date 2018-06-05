@@ -16,7 +16,6 @@ It does **not** yet contain changes introduced by the Cancun upgrade.
 
 An alternative [Python Execution Layer specification](https://ethereum.github.io/execution-specs/) is actively maintained and up to date. 
 
-## Usage
 
 If you just want to read the paper, the latest version is generally available as a PDF at https://ethereum.github.io/yellowpaper/paper.pdf. If you find that the borders for links block too much text when viewing the PDF in the browser, you can instead download it and open and view it with a PDF viewer application such as Adobe Acrobat or Evince, where the borders are less likely to display over text.
 
